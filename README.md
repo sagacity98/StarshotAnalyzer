@@ -1,6 +1,6 @@
 # StarshotAnalyzer
 
-> The schematic diagram of star-shot image analysis is as follows.
+> The schematic diagram of star-shot image analysis is as follows:
 
 ![image](image.png)
 
