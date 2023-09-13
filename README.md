@@ -8,7 +8,7 @@
 * Obtaining a star-shot image through a series of proton irradiations at various gantry angles
 * Finding image isocenter
 * Finding laser isocenter
-* Star-shot analysis using Pylinac to compute the minimum circle radius and the position of the radiation isocenter.
+* Star-shot analysis using Pylinac to compute the minimum circle radius and the position of the radiation isocenter
 
 
 
