@@ -2,7 +2,7 @@
 
 > The schematic diagram of star-shot image analysis is as follows:
 
-![image](image.png)
+![image](flowchart.png)
 
 ## Features
 * Obtaining a star-shot image through a series of proton irradiations at various gantry angles
